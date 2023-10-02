@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+    background-color: #5175a8;
+}
+
+.App {
+    padding: 20px;
+    background-color: #dddddd;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+.Loading {
+    padding: 20px;
+    margin: 20px;
+}
+
+.Error {
+    color: #9c0101;
+    font-family: monospace;
+    font-weight: bold;
+    background-color: #000000;
+    padding: 20px;
+    margin: 20px;
+}
+
+.Data {
+    padding: 20px;
+    margin: 20px;
+}
